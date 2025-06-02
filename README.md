@@ -5,7 +5,7 @@
 ### Dataset Used:- Netflix_titles
 
 
-### ✅ Key Steps in the Script:
+###  Key Steps in the Script:
 
 1. **Load the Dataset**
 
@@ -44,6 +44,6 @@
 
    * Prints a success confirmation in the terminal.
 
-### 💾 Output:
+### Output:
 
 * **File**: `cleaned_netflix_dataset.csv`
