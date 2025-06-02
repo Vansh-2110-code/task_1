@@ -47,6 +47,3 @@
 ### 💾 Output:
 
 * **File**: `cleaned_netflix_dataset.csv`
-* **Format**: CSV with transformed, cleaned, and enriched Netflix show/movie records
-
-
